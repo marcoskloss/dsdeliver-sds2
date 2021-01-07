@@ -9,14 +9,14 @@
 .orders-steps-container {
   display: flex;
   justify-content: center;
-  background-color: #FFF;
+  align-items: center;
+  background-color:#fff;
   margin-bottom: 30px;
 }
 
 .orders-steps-content {
   display: flex;
   padding: 25px 0;
-  width: 70%;
 }
 
 .steps-title {
