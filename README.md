@@ -13,7 +13,7 @@ DSDeliver é uma aplicação full stack web que consiste em um sistema de pedido
 ## Modelo Conceitual
 ![](/modelo-conceitual.png)
 
-## Backend padrão camadas adotado
+## Back end padrão camadas adotado
 ![](/camadas.png)
 
 # Tecnologias usadas
