@@ -31,5 +31,6 @@ DSDeliver é uma aplicação full stack web que consiste em um sistema de pedido
   - Front end: Netlify
   - Banco de dados: postgresql
 
-#### Saiba mais sobre a minha experiência nesse projeto [aqui:](https://www.linkedin.com/posts/marcos-kloss_marcosklossdsdeliver-sds2-activity-6753765614101311488-Jb3X/)
+#### Saiba mais sobre a minha experiência nesse projeto:
+[https://www.linkedin.com/posts/marcos-kloss_marcosklossdsdeliver-sds2-activity-6753765614101311488-Jb3X/](https://www.linkedin.com/posts/marcos-kloss_marcosklossdsdeliver-sds2-activity-6753765614101311488-Jb3X/)
     
