@@ -8,13 +8,13 @@ DSDeliver é uma aplicação full stack web que consiste em um sistema de pedido
 
 ## Layout
 ![](/home.png)
-![](https://drive.google.com/file/d/11kqRZFENDDN80oYlJ6XB32Svr9lpNkyS/view?usp=sharing)
+![](/produtos.png)
 
 ## Modelo Conceitual
-![](
+![](/modelo-conceitual.png)
 
 ## Backend padrão camadas adotado
-image
+![](/camadas.png)
 
 # Tecnologias usadas
 ### Back end
@@ -33,4 +33,3 @@ image
 
 #### Saiba mais sobre a minha experiência nesse projeto em:
     []()
-link
