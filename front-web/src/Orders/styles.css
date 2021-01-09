@@ -192,6 +192,8 @@
   display: flex;
   justify-content: center;
   margin-bottom: 30px;
+  margin-top: 30px;
+  text-transform: uppercase;
 }
 
 .order-summary-content {
@@ -244,6 +246,7 @@
 .order-summary-make-order {
   width: 220px;
   height: 45px;
+  text-transform: uppercase;
   background: #FFF;
   border-radius: 10px;
   font-weight: bold;
