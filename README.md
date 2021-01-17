@@ -1,6 +1,6 @@
 # DSDeliver
 
-[https://marcoskloss-sds2.netlify.app/orders](https://marcoskloss-sds2.netlify.app/orders) <br/>
+[https://marcoskloss-sds2.netlify.app](https://marcoskloss-sds2.netlify.app) <br/>
 O carregamento da página pode ser lento devido à hospedagem no Heroku.
 
 # O Projeto
